@@ -9,8 +9,8 @@ const ProjectCard = ({ title, description, image, link }) => {
         >
             <img src={image} alt={title} className="w-full h-48 object-cover" />
             <div className="p-5">
-                <h3 className="text-xl font-semibold mb-2 text-gray-800 text-gray-100">{title}</h3>
-                <p className="text-gray-600 text-gray-400 text-sm">{description}</p>
+                <h3 className="text-xl font-semibold mb-2 text-gray-100">{title}</h3>
+                <p className="text-gray-600 text-sm">{description}</p>
             </div>
         </motion.div>
     );

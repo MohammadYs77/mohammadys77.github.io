@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 const ProjectCard = ({ title, description, image, link }) => {
     return (
         <motion.div
-        className="rounded-2xl shadow-lg overflow-hidden bg-white bg-gray-900 transition transform hover:scale-105 hover:shadow-2xl cursor-pointer"
+        className="rounded-2xl shadow-custom overflow-hidden bg-white bg-gray-900 transition transform hover:scale-105 hover:shadow-custom-hover cursor-pointer"
         whileHover={{ y: -5 }}
         onClick={() => window.open(link, "_blank")}
         >

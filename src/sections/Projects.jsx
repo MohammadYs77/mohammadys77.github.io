@@ -23,7 +23,7 @@ const projects = [
     title: 'Fine-Tuning LLMs for Text Classification',
     desc: 'Fine-tuned DistilBERT with LoRA (rank=4, alpha=32) on IMDB dataset; achieved 89.2% accuracy.',
     link: 'https://github.com/MohammadYs77/Fine-tuning-LLMs-for-Sentiment-Analysis',
-    image: '/assets/sentiment-analysis.png'
+    image: '/assets/sentiment-analysis.jpg'
   },
   {
     title: 'Real-time Emotion Detection',

@@ -5,9 +5,7 @@ export default function About(){
     <section aria-labelledby="about">
       <h2 id="about" className="text-2xl font-semibold text-sky-700">About</h2>
       <p className="mt-3 text-slate-700 leading-relaxed">
-        I am apassionate and detail-oriented Artificial Intelli
-gence and Data Science researcher with a strong foun
-dation in deep learning, computer vision, and machine learning. 
+        I am a passionate and detail-oriented Artificial Intelligence and Data Science researcher with a strong foundation in deep learning, computer vision, and machine learning. 
 My research interests span across medical imaging, radar-based human detection, and multi-modal 
 sensor fusion. I hold an M.Sc. in Artificial Intelligence 
 from Bahçeşehir University, where my thesis focused 
